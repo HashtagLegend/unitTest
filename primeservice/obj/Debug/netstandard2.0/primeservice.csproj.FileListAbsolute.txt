@@ -1,0 +1,9 @@
+C:\source\unit-testing-using-mstest\primeservice\bin\Debug\netstandard2.0\primeservice.deps.json
+C:\source\unit-testing-using-mstest\primeservice\bin\Debug\netstandard2.0\primeservice.dll
+C:\source\unit-testing-using-mstest\primeservice\bin\Debug\netstandard2.0\primeservice.pdb
+C:\source\unit-testing-using-mstest\primeservice\obj\Debug\netstandard2.0\primeservice.csprojResolveAssemblyReference.cache
+C:\source\unit-testing-using-mstest\primeservice\obj\Debug\netstandard2.0\primeservice.csproj.CoreCompileInputs.cache
+C:\source\unit-testing-using-mstest\primeservice\obj\Debug\netstandard2.0\primeservice.AssemblyInfoInputs.cache
+C:\source\unit-testing-using-mstest\primeservice\obj\Debug\netstandard2.0\primeservice.AssemblyInfo.cs
+C:\source\unit-testing-using-mstest\primeservice\obj\Debug\netstandard2.0\primeservice.dll
+C:\source\unit-testing-using-mstest\primeservice\obj\Debug\netstandard2.0\primeservice.pdb
